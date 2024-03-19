@@ -1,5 +1,6 @@
 # VOBEM1: Vision Objects for Beam Management (Version 1)
 
+![](VOBEM1.jpg)
 
 VOBEM1 is a vision dataset specially designed for the evaluation of the single-view computer vision-aided wireless communicatons (single-view SVWC) performance in millimeter and THz communication scenarios.
 It consists of 135 pairs of RGB and depth images taken from the base station.
