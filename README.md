@@ -5,7 +5,7 @@
 VOBEM1 is a vision dataset specially designed for the evaluation of the single-view computer vision-aided wireless communicatons (single-view SVWC) performance in millimeter and THz communication scenarios.
 It consists of 135 pairs of RGB and depth images captured using the RGB-d camera attached at the base station.
 
-For more details of this work, see the paper "Towards Intelligent Millimeter and Terahertz Communication for 6G: Computer Vision-aided Beamforming", IEEE Wireless Communications and "Vision-aided Positioning and Beam Focusing for 6G Terahertz Communications", submitted to IEEE Journal on Selected Areas in Communications http://isl.snu.ac.kr/publication.
+For more details of this work, see the paper "Towards Intelligent Millimeter and Terahertz Communication for 6G: Computer Vision-aided Beamforming", IEEE Wireless Communications and "Vision-aided Positioning and Beam Focusing for 6G Terahertz Communications", to appear in IEEE Journal on Selected Areas in Communications http://isl.snu.ac.kr/publication.
 
 ## Preparation
 Please download the VOBEM1 dataset from https://www.dropbox.com/scl/fo/f96gvtvon3ox4ik8ne96e/h?rlkey=u7hqdy3tyhyok14y68q7cw0bz&dl=0.
